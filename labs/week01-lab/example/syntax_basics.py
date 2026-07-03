@@ -4,11 +4,10 @@ Learn about variables, data types, and basic Python syntax.
 """
 
 # Exercise 1: Variables and Assignment
-# Create variables for the following information about yourself:
-name = "Your Name Here"  # Replace with your actual name
-age = 20  # Replace with your actual age
-height = 5.8  # Replace with your height in feet
-is_student = True  # True or False
+name = "Pattarasasi"
+age = 21
+height = 5.41
+is_student = True
 
 # Print all variables
 print("Name:", name)
@@ -17,7 +16,6 @@ print("Height:", height)
 print("Is Student:", is_student)
 
 # Exercise 2: Data Types
-# Create variables of different types and print their types
 my_string = "Hello Python"
 my_integer = 42
 my_float = 3.14
@@ -41,7 +39,6 @@ print("Full name:", full_name)
 print("Length of full name:", len(full_name))
 
 # Exercise 4: Numbers and Arithmetic
-# Create two numbers and perform basic operations
 num1 = 10
 num2 = 3
 
@@ -54,7 +51,6 @@ print("Remainder (Modulo):", num1 % num2)
 print("Power:", num1 ** num2)
 
 # Exercise 5: Variable Reassignment
-# Start with a variable and change its value
 counter = 0
 print("Initial counter:", counter)
 
@@ -65,7 +61,6 @@ counter = counter + 5
 print("After adding 5:", counter)
 
 # Exercise 6: Multiple Assignment
-# Assign multiple variables in one line
 x, y, z = 1, 2, 3
 print("x =", x, "y =", y, "z =", z)
 
@@ -74,19 +69,18 @@ a = b = c = 10
 print("a =", a, "b =", b, "c =", c)
 
 # Exercise 7: Practice with Different Data Types
-# Complete the following assignments:
 
 # String variable containing your favorite color
-favorite_color = 
+favorite_color = "Blue"
 
 # Integer variable with the current year
-current_year = 
+current_year = 2026
 
 # Float variable with your favorite number (with decimal)
-favorite_number = 
+favorite_number = 9.0
 
 # Boolean variable indicating if you like pizza
-likes_pizza = 
+likes_pizza = True
 
 # Print all variables with descriptive messages
 print("My favorite color is:", favorite_color)
